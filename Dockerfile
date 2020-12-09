@@ -5,6 +5,8 @@ RUN apt-get update --fix-missing -y && \
 	apt-get install -y --fix-missing wget bzip2 \
 	ca-certificates  libglib2.0-0 libxext6 \
 	libsm6 libxrender1 libgl1  git mercurial \
+	python-cairo libcairo2-dev fontconfig xfonts-utils \
+	pandoc hub git-flow zip \
 	subversion curl grep sed dpkg vim && \
 	wget --quiet https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-4.7.12.1-Linux-x86_64.sh -O ~/anaconda.sh &&  \
 	/bin/bash ~/anaconda.sh -b -p /opt/conda && \
@@ -30,9 +32,6 @@ RUN apt-get update -y && \
 	echo "export LANG=zh_CN.utf8" >> /etc/profile && \
 	apt-get clean && \
 	mkdir data
-# 安装pandoc
-RUN apt-get install -y pandoc hub git-flow zip && \
-	apt-get clean 
 # 安装R,python相关库及包
 RUN conda update conda &&  \
 	conda config --add channels conda-forge &&  \
