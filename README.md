@@ -1,14 +1,5 @@
 Learning Programming
 
-- [1. learn](#1-learn)
-  - [1.1. 编程环境](#11-编程环境)
-    - [1.1.1. dockerfile](#111-dockerfile)
-    - [1.1.2. docker hub](#112-docker-hub)
-    - [1.1.3. 镜像使用](#113-镜像使用)
-  - [1.2. 学习规则](#12-学习规则)
-- [2. python](#2-python)
-  - [2.1. 学习笔记](#21-学习笔记)
-
 # 1. learn
 
 Learn programming, such as python、R、docker and sql
