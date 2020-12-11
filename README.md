@@ -1,4 +1,4 @@
-<font size=6>Learning Programming</font>
+Learning Programming
 
 - [1. learn](#1-learn)
   - [1.1. 编程环境](#11-编程环境)
@@ -26,7 +26,7 @@ Learn programming, such as python、R、docker and sql
 可直接从docker hub上拉取镜像。
 
 ```docker
-docker pull lujiawei/learn:lastest
+docker pull lujiawei/learn
 ```
 
 ### 1.1.3. 镜像使用
@@ -35,7 +35,7 @@ docker pull lujiawei/learn:lastest
 docker run -d --privileged \
 -v /path:/data \
 --name learn \ 
-lujiawei/learn:lastest
+lujiawei/learn
 ```
 
 ## 1.2. 学习规则
