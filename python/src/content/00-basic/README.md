@@ -1,6 +1,6 @@
 # basic
 
-1. [什么是python](00-python/00-python.md)
+1. [什么是python](00-python/00-什么是python.md)
    - [python安装](00-python/01-python安装.md)
    - [python解释器](00-python/02-python解释器.md)
    - [python环境变量](00-python/03-python环境变量.md)
