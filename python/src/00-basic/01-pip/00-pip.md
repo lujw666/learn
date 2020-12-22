@@ -6,3 +6,5 @@
 4. pip install xxx==版本号 安装相应版本号的库
 5. pip freeze > requirements.txt 现有库信息保存
 6. pip install -r requirements.txt 根据其他库信息安装库
+
+[返回](../README.md)
