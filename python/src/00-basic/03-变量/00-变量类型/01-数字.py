@@ -1,6 +1,6 @@
 import cmath
 
-print(1)    #整型(
+print(1)    #整型
 print(2.0)  #浮点型
 print(complex(1,1)) #复数
 
