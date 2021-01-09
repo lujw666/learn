@@ -1,8 +1,6 @@
-Learning Programming
+# 1. 学习内容
 
-# 1. learn
-
-Learn programming, such as python、R、docker and sql
+学习python、R、docker and sql
 
 ## 1.1. 编程环境
 
@@ -10,7 +8,7 @@ Learn programming, such as python、R、docker and sql
 
 ### 1.1.1. dockerfile
 
-用于docker镜像搭建的[dokerfile](Dockerfile)。
+用于docker镜像搭建的[dokerfile](run/Dockerfile)。
 
 ### 1.1.2. docker hub
 
@@ -29,10 +27,6 @@ docker run -d --privileged \
 lujiawei/learn
 ```
 
-## 1.2. 学习规则
+# 2. 学习链接
 
-# 2. python
-
-## 2.1. 学习笔记
-
-python学习笔记的[链接](python/README.md)。
+## 2.1. [python](python/README.md)
