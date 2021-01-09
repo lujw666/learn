@@ -6,7 +6,7 @@ RUN	apt-get update --fix-missing -y && \
 	ca-certificates  libglib2.0-0 libxext6 \
 	libsm6 libxrender1 libgl1  git mercurial \
 	python-cairo libcairo2-dev fontconfig xfonts-utils \
-	pandoc hub git-flow zip \
+	pandoc hub git-flow zip nodejs npm \
 	subversion curl grep sed dpkg vim && \
 	wget --quiet https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-4.7.12.1-Linux-x86_64.sh -O ~/anaconda.sh &&  \
 	/bin/bash ~/anaconda.sh -b -p /opt/conda && \
