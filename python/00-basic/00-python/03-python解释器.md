@@ -26,7 +26,7 @@ set path=%path%;C:\python37
 #!/usr/bin/python3
 ```
 
--保存在XXX.py​ 文件中并使用python命令执行该脚本文件
+- 保存在XXX.py​ 文件中并使用python命令执行该脚本文件
 
 ```shell
 python XXX.py
