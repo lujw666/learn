@@ -54,5 +54,3 @@ path=%path%;C:\Python
 | PYTHONSTARTUP | Python启动后，先寻找PYTHONSTARTUP环境变量，然后执行此文件中变量指定的执行代码。 |
 | PYTHONCASEOK | 加入PYTHONCASEOK的环境变量, 就会使Python导入模块的时候不区分大小写。 |
 | PYTHONHOME | 另一种模块搜索路径。它通常内嵌于的PYTHONSTARTUP或PYTHONPATH目录中，使得两个模块库更容易切换。 |
-
-[返回python基础目录](/python/00-basic/README.md)

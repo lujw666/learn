@@ -31,5 +31,3 @@ set path=%path%;C:\python37
 ```shell
 python XXX.py
 ```
-
-[返回python基础目录](/python/00-basic/README.md)

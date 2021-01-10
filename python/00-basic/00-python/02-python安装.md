@@ -6,9 +6,9 @@ Python文档下载地址:<https://www.python.org/doc/>
 
 ## linux & unix
 
-1. 适用于 Unix/Linux 的源码压缩包下载：<https://www.python.org/downloads/source/>
+1.适用于 Unix/Linux 的源码压缩包下载：<https://www.python.org/downloads/source/>
 
-2. 解压及安装
+2.解压及安装
 
 ```shell
 tar -zxvf Python-3.8.5.tgz
@@ -17,7 +17,7 @@ cd Python-3.8.5
 make && make install 
 ```
 
-3. 检查Python3是否正常可用
+3.检查Python3是否正常可用
 
 ```shell
 python3 -V
@@ -32,5 +32,3 @@ python3 -V
 ## Mac
 
 MAC系统一般都自带有 Python2.7 版本的环境，也可以在链接<https://www.python.org/downloads/mac-osx/>上下载最新版安装。
-
-[返回python基础目录](/python/00-basic/README.md)
