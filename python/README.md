@@ -1,6 +1,6 @@
 # python的学习
 
-[基础](00-basic/README.md)
+[基础](/python/00-basic/README.md)
 
 [扩展]
 

@@ -1,10 +1,6 @@
-# pip库管理
+# pip
 
-1. pip list 列举库
-2. pip install xxx 安装库
-3. pip uninstall xxx 卸载库
-4. pip install xxx==版本号 安装相应版本号的库
-5. pip freeze > requirements.txt 现有库信息保存
-6. pip install -r requirements.txt 根据其他库信息安装库
+* [pip库管理](/python/00-basic/01-pip/01-pip.md)
+* [python常用库](/python/00-basic/01-pip/02-常用库.md)
 
-[返回](../README.md)
+[返回python基础目录](/python/00-basic/README.md)
