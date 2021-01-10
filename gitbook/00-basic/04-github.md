@@ -9,7 +9,7 @@ GitBook.com 为每本书籍都创建了一个 Git 项目，并且使用这个 Gi
 在你的 账号设置 里，使用正确的权限连接你的GitHub账号：
 
 * 默认的权限：仅仅在登陆的时候访问你的GitHub账号来验证你
-* 访问webhook：访问你的GitHub账号来在指定的仓库中创建webhook（查看[webhooks](/gitbook/00-basic/04-github.md##Webhooks)）
+* 访问webhook：访问你的GitHub账号来在指定的仓库中创建webhook（查看[webhooks](/gitbook/00-basic/04-github.md#Webhooks)）
 * 访问公开的仓库：从网页编辑器中访问你的GitHub仓库，你可以很容易的在GitBook中编辑你的书本（仅仅公共仓库）
 * 访问私有的仓库：和上面一项目一样，但是只能访问私有仓库
 
