@@ -5,7 +5,9 @@
 ## 1.1. 本学习内容存放位置
 
 Github:<https://github.com/lujw666/learn.git>
+
 Gitbook:<https://lujw666.gitbook.io/learn/>
+
 Dockerhub:<https://hub.docker.com/repository/docker/lujiawei/learn>
 
 ## 1.2. 搭建编程环境
@@ -35,4 +37,6 @@ lujiawei/learn
 
 # 2. 学习链接
 
-## 2.1. [python](python/README.md)
+## 2.1. [python](/python/README.md)
+
+## 2.2. [python](/gitbook/README.md)
