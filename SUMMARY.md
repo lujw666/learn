@@ -50,6 +50,9 @@
   * [扩展]
   * [常用库]
   * [实操]
+* [git](/git/README.md)
+  * [基础](/git/00-basic/README.md)
+  * [扩展]
 * [gitbook](/gitbook/README.md)
   * [基础](/gitbook/00-basic/README.md)
     * [1.简介](/gitbook/00-basic/01-简介.md)

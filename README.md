@@ -39,4 +39,6 @@ lujiawei/learn
 
 ## 2.1. [python](/python/README.md)
 
-## 2.2. [gitbook](/gitbook/README.md)
+## 2.2. [git](/git/README.md)
+
+## 2.3. [gitbook](/gitbook/README.md)
