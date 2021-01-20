@@ -95,3 +95,5 @@
     * [3.使用](/gitbook/00-basic/03-使用.md)
     * [4.Github托管](/gitbook/00-basic/04-github.md)
   * [扩展]
+    * [Hub](/git/02-extend/hub/README.md)
+    * [Git Flow](/git/02-extend/gitflow/README.md)

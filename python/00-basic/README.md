@@ -46,3 +46,8 @@
   * [传递参数](/python/00-basic/06-function/03-传参.md)
   * [匿名函数](/python/00-basic/06-function/04-匿名函数.md)
   * [return](/python/00-basic/06-function/05-return.md)
+* [7.面向对象](/python/00-basic/07-object-oriented/00-面向对象.md)
+  * [概念](/python/00-basic/07-object-oriented/01-概念.md)
+  * [类](/python/00-basic/07-object-oriented/02-类.md)
+  * [继承](/python/00-basic/07-object-oriented/03-继承.md)
+  * [类的专有方法](/python/00-basic/07-object-oriented/04-类的专有方法.md)
