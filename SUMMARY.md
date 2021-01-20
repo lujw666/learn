@@ -87,7 +87,10 @@
       * 提交日志
         * [git log](/git/00-basic/05-command/18-gitlog.md)
         * [git blame](/git/00-basic/05-command/19-gitblame.md)
-  * [扩展]
+  * [进阶](/git/01-advanced/README.md)
+  * [扩展](/git/02-extend/README.md)
+    * [Hub](/git/02-extend/hub/README.md)
+    * [Git Flow](/git/02-extend/gitflow/README.md)
 * [gitbook](/gitbook/README.md)
   * [基础](/gitbook/00-basic/README.md)
     * [1.简介](/gitbook/00-basic/01-简介.md)
@@ -95,5 +98,3 @@
     * [3.使用](/gitbook/00-basic/03-使用.md)
     * [4.Github托管](/gitbook/00-basic/04-github.md)
   * [扩展]
-    * [Hub](/git/02-extend/hub/README.md)
-    * [Git Flow](/git/02-extend/gitflow/README.md)
