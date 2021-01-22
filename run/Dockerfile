@@ -23,7 +23,7 @@ RUN	apt-get update -y && \
 	localedef -c -f UTF-8 -i zh_CN zh_CN.utf8 && \
 	apt-get -yq install openssh-server && \
 	mkdir /var/run/sshd && \
-	echo 'root:lumingbio' | chpasswd && \
+	echo 'root:123456a' | chpasswd && \
 	sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config && \
 	sed 's@session\s*required\s*pam_loginuid.so@session optional pam_loginuid.so@g' -i /etc/pam.d/sshd && \
 	echo "export VISIBLE=now" >> /etc/profile && \
