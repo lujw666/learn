@@ -8,11 +8,11 @@ dict() 函数用于创建一个字典。
 
 dict 语法：
 
-> class dict(**kwarg)
->
-> class dict(mapping, **kwarg)
->
-> class dict(iterable, **kwarg)
+```python
+dict(**kwarg)
+dict(mapping, **kwarg)
+dict(iterable, **kwarg)
+```
 
 参数说明：
 

@@ -10,7 +10,7 @@
       * [python环境变量](/python/00-basic/00-python/04-python环境变量.md)
       * [编程第一步](/python/00-basic/00-python/05-demo.py)
     * [1.pip](/python/00-basic/01-pip/00-pip库管理.md)
-      * [pip库管理](/python/00-basic/01-pip/01-pip.md)
+      * [pip库管理](/python/00-basic/01-pip/01-pip库管理.md)
       * [python常用库](/python/00-basic/01-pip/02-常用库.md)
     * [2.基础语法](/python/00-basic/02-basic/00-基础语法.md)
       * [注释](/python/00-basic/02-basic/01-注释.md)
@@ -52,6 +52,12 @@
       * [类](/python/00-basic/07-object-oriented/02-类.md)
       * [继承](/python/00-basic/07-object-oriented/03-继承.md)
       * [类的专有方法](/python/00-basic/07-object-oriented/04-类的专有方法.md)
+    * [8.错误和异常](/python/00-basic/08-errors&exceptions/00-错误与异常.md)
+      * [错误和异常](/python/00-basic/08-errors&exceptions/01-错误与异常.md)
+      * [异常处理](/python/00-basic/08-errors&exceptions/02-异常处理.md)
+      * [抛出异常](/python/00-basic/08-errors&exceptions/03-抛出异常.md)
+      * [自定义异常](/python/00-basic/08-errors&exceptions/04-自定义异常.md)
+      * [标准异常](/python/00-basic/08-errors&exceptions/05-标准异常.md)
   * [扩展]
   * [常用库]
   * [实操]
