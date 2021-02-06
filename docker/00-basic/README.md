@@ -1,7 +1,7 @@
 # 基础
 
 * [简介](/docker/00-basic/01-docker.md)
-* [docker 安装](/docker/00-basic/02-安装.md)
+* [Docker 安装](/docker/00-basic/02-安装.md)
 * [Docker 架构](/docker/00-basic/03-架构.md)
 * [Docker 镜像使用](/docker/00-basic/04-镜像.md)
 * [Docker 容器操作](/docker/00-basic/05-容器.md)

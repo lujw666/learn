@@ -61,10 +61,10 @@
   * [扩展]
   * [常用库]
   * [实操]
-* [docker]
+* [docker](docker/README.md)
   * [基础](docker/00-basic/README.md)
     * [简介](/docker/00-basic/01-docker.md)
-    * [docker 安装](/docker/00-basic/02-安装.md)
+    * [Docker 安装](/docker/00-basic/02-安装.md)
     * [Docker 架构](/docker/00-basic/03-架构.md)
     * [Docker 镜像使用](/docker/00-basic/04-镜像.md)
     * [Docker 容器操作](/docker/00-basic/05-容器.md)
@@ -108,7 +108,12 @@
         * [load](/docker/00-basic/command/load.md)
         * [import](/docker/00-basic/command/import.md)
   * [进阶]
+    * [Docker清理命令](/docker/01-advanced/01-清理.md)
+    * [Docker的技巧和秘诀](/docker/01-advanced/02-技巧.md)
   * [扩展]
+    * [Docker Compose](/docker/02-extend/01-compose.md)
+    * [Docker Machine](/docker/02-extend/02-machine.md)
+    * [Swarm 集群管理](/docker/02-extend/03-swarn.md)
 * [markdown](/markdown/README.md)
   * [基础](/markdown/00-basic/README.md)
     * [简介](/markdown/00-basic/01-简介.md)
