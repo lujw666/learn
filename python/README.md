@@ -4,6 +4,6 @@
 
 [扩展]
 
-[常用库]
+[常用库](/python/03-import/numpy/README.md)
 
 [实操]
