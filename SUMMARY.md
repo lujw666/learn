@@ -71,6 +71,13 @@
       * [NumPy 运算](/python/03-import/numpy/08-运算.md)
       * [NumPy 线性代数](/python/03-import/numpy/09-线性代数.md)
       * [NumPy IO](/python/03-import/numpy/10-IO.md)
+    * [Matplotlib](/python/03-import/matplotlib/README.MD)
+      * [Matplotlib 简介](/python/03-import/matplotlib/01-简介.md)
+      * [Matplotlib 基础](/python/03-import/matplotlib/02-基础.md)
+      * [Matplotlib 常见图](/python/03-import/matplotlib/03-常见图.md)
+      * [Matplotlib 参数及元素](/python/03-import/matplotlib/04-参数.md)
+      * [Matplotlib 优雅绘图](/python/03-import/matplotlib/05-优雅绘图.md)
+    * [Seaborn](https://seaborn.apachecn.org/)
   * [实操]
 * [docker](/docker/README.md)
   * [基础](/docker/00-basic/README.md)
