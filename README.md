@@ -8,6 +8,8 @@ Github:<https://github.com/lujw666/learn.git>
 
 Gitbook:<https://lujw666.gitbook.io/learn/>
 
+Blog:<https://lujw666.github.io/>
+
 Dockerhub:<https://hub.docker.com/repository/docker/lujiawei/learn>
 
 ## 1.2. 搭建编程环境
