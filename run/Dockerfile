@@ -14,6 +14,8 @@ RUN	apt-get update --fix-missing -y && \
 	ln -s /opt/conda/etc/profile.d/conda.sh /etc/profile.d/conda.sh && \
 	echo ". /opt/conda/etc/profile.d/conda.sh" >> ~/.bashrc && \
 	echo "conda activate base" >> ~/.bashrc && \
+	npm install -g hexo-cli && \
+	npm install hexo-deployer-git --save && \
 	apt-get clean
 # !添加conda路径
 ENV	PATH /opt/conda/bin:$PATH
