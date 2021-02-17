@@ -1,4 +1,4 @@
-# Github托管
+# GitBook Github托管
 
 GitBook.com 为每本书籍都创建了一个 Git 项目，并且使用这个 Git 项目来管理书籍源码。
 
