@@ -1,5 +1,7 @@
 # Hub
 
+Hub 是对 git 的一层封装，以便和 GitHub 完美结合，而且对 git 完全兼容，推荐直接将 hub 设置为 git 的别名，所以在执行 git 的时候实际上是在执行 hub。
+
 ## Hub安装
 
 ```shell
