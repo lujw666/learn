@@ -39,12 +39,14 @@ lujiawei/learn
 
 # 2. 学习链接
 
-## 2.1. [python](/python/README.md)
+## 2.1. [Python](/python/README.md)
 
-## 2.2. [docker](/docker/README.md)
+## 2.2. [SQL](/SQL/README.md)
 
-## 2.3. [markdown](/markdown/README.md)
+## 2.3. [Docker](/docker/README.md)
 
-## 2.4. [git](/git/README.md)
+## 2.4. [Markdown](/markdown/README.md)
 
-## 2.5. [gitbook](/gitbook/README.md)
+## 2.5. [Git](/git/README.md)
+
+## 2.6. [GitBook](/gitbook/README.md)
